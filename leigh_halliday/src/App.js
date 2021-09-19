@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./styles.css";
 
 import WithReducer from "./WithReducer";
 import WithContext from "./WithContext";
